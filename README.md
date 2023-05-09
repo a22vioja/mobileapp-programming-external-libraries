@@ -72,5 +72,9 @@ buildToolsVersion "30.0.3"
         minSdkVersion 24
         targetSdkVersion 33     
 ```
-Bilder läggs i samma mapp som markdown-filen.
+
+I also couldn't build APK file:
+
+![](fail1.png)
+![](fail2.png)
 
